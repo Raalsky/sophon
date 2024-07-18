@@ -8,3 +8,4 @@ ruff
 isort
 pytest
 icecream
+moto[transcribe]
