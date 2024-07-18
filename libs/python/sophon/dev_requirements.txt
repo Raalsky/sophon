@@ -1,0 +1,10 @@
+-e .
+
+# dev
+poetry
+pre-commit
+mypy
+ruff
+isort
+pytest
+icecream
